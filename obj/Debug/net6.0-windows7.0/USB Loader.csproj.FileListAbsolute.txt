@@ -1,0 +1,17 @@
+C:\Users\awest\source\repos\USB Loader\USB Loader\bin\Debug\net6.0-windows7.0\USB Loader.exe
+C:\Users\awest\source\repos\USB Loader\USB Loader\bin\Debug\net6.0-windows7.0\USB Loader.deps.json
+C:\Users\awest\source\repos\USB Loader\USB Loader\bin\Debug\net6.0-windows7.0\USB Loader.runtimeconfig.json
+C:\Users\awest\source\repos\USB Loader\USB Loader\bin\Debug\net6.0-windows7.0\USB Loader.dll
+C:\Users\awest\source\repos\USB Loader\USB Loader\bin\Debug\net6.0-windows7.0\USB Loader.pdb
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\USB Loader.csproj.AssemblyReference.cache
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\USB Loader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\USB Loader.AssemblyInfoInputs.cache
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\USB Loader.AssemblyInfo.cs
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\USB Loader.csproj.CoreCompileInputs.cache
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\USB Loader.dll
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\refint\USB Loader.dll
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\USB Loader.pdb
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\USB Loader.genruntimeconfig.cache
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\ref\USB Loader.dll
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\Interop.IWshRuntimeLibrary.dll
+C:\Users\awest\source\repos\USB Loader\USB Loader\obj\Debug\net6.0-windows7.0\USB Loader.csproj.ResolveComReference.cache
